@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emal>
+	<HostName>smtp.163.com</HostName>
+	<SmtpPort>25</SmtpPort>
+	<username>xxx@163.com</username>
+	<password>123456</password>
+	<Charset>UTF-8</Charset>
+	<Subject>xxx购物网注册信息</Subject>
+	<SSLOnConnect>true</SSLOnConnect>
+	<From>xxx@163.com</From>
+	<addcontent>欢迎你注册xxx购物网，本邮箱对应的帐号激活码为：</addcontent>
+</emal>
